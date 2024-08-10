@@ -1,0 +1,42 @@
+.lotta{
+    display: flex;
+}
+
+.quti{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+.qutilar{
+    font-size: 50px;
+    margin: 0px 100px;
+}
+.cardlar{
+    text-align: center;    
+}
+.cardlar h1{
+    font-size: 50px;
+}
+.cardlar p{
+    font-size: 20px;
+    font-family: cursive;
+}
+.korob{    
+    background-color: gray;
+    width: 350px;
+    height: 150px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.pas{
+    width: 350px;
+    height: 200px;
+    background-color: rgb(233, 231, 231);
+    font-size: 24px;   
+}
+.df{
+    display: flex;
+    gap: 20px;
+}

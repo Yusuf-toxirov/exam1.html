@@ -1,0 +1,104 @@
+div{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.bl{
+    width: 50px;
+    height: 50px;
+    border-top-left-radius: 20px;
+    background-color: pink;
+}
+.br{
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    border-top-right-radius: 20px;
+}
+.tl{
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    border-bottom-left-radius: 20px;
+}
+.tr{
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    border-bottom-right-radius: 20px;
+}
+.a{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 3px;
+}
+.b{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.c{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 15px;
+}
+.d{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 25px;
+}
+.e{
+    width: 50px;
+    height: 50px;
+    background-color: plum;
+    border-radius: 3px;
+} 
+.f{
+    width: 50px;
+    height: 50px;
+    background-color: plum;
+    border-radius: 10px 
+}
+.g{
+    width: 50px;
+    height: 50px;
+    background-color: plum;
+    border-radius: 15px
+}
+.h{
+    width: 50px;
+    height: 50px;
+    background-color: plum;
+    border-radius: 25px; 
+}
+.i{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 10px 1px;
+}
+.j{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 20px 1px;
+}
+.k{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 30px 1px; 
+}
+.l{
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 50px 1px;
+}
+
+

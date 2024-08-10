@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 1387px;
+    height: 1127px;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 128px;
+    height: 25px;
+}
+.poisc{
+    width: 635px;
+    height: 29px;
+}
+.hi{
+    width: 24px;
+    height: 24px;
+}
+.bars{
+    width: 240px;
+    height: 1056px;
+    margin-top: 30px;
+    justify-content: center;
+    display: inline-block;
+}
+.nav{
+    display: flex;
+}

@@ -1,0 +1,14 @@
+.con{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.box{
+    width: calc((100% - 2 * 50px - 3 * 20px)/4);
+    min-width: 250px;
+    height: 150px;
+    background-color: red;
+
+}

@@ -1,0 +1,162 @@
+
+.flex-container{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.flex-container div a{
+    text-decoration: none;
+    margin-left: 20px;
+    display: inline-block;
+}
+.flex-container div button{
+    text-decoration: none;
+    margin-left: 20px;
+    display: inline-block;
+}
+.flex-container div select{
+    text-decoration: none;
+    margin-left: 20px;
+    display: inline-block;
+}
+.ro{
+    margin: 0 auto;
+    width: 80%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.qizil{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: red;
+}
+.ro div h1{
+    font-size: 50px;
+}
+.find{
+    padding: 10px;
+    background-color: orange;
+    border-style: 1 solid;
+    border-radius: 10px;
+    width: 120px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.rasmcha {   
+    display: flex;
+   align-items: center;
+   gap: 10px;  
+}
+.rasmcha img{
+    background-color: red;
+    padding: 10px;
+    border-radius: 50%;
+}
+.no{
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;    
+}
+select{
+    border: none;
+}
+.gw{
+    text-align: center;
+}
+
+
+.cotegory{
+    text-align: center;
+    display: inline-block;
+}
+.cotegory div{
+    display: inline-block;
+    width: 267px;
+    height: 317px;
+    border-radius: 10px;
+    margin-left: 120px;
+}
+.trevel{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.trevel img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+.easy div{
+    display: flex;
+    align-items: center;
+}
+.easy img{
+    width: 47px;
+    height: 48px;
+    margin-right: 10px;
+}
+.tur div{
+    width: 370px;
+    height: 400px;    
+}
+.person{
+    display: flex;
+    justify-content: space-around;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logos img{
+    margin: 0 auto;
+}
+.emailw{
+    text-align: center;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin-left: 30px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 180px;
+    height: 68px;
+}
+.email input{
+    width: 420px;
+    height: 68px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.p{
+    font-size: 11px;
+}
+.zak{
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+}
+.zak div{
+    width: 80px;
+    height: 200px;
+    margin-left: 200px;
+}
+i{
+    margin-left: 5px;
+}
+.i{
+    text-align: center;
+}

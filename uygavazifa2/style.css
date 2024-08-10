@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body{
+    font-family: sans-serif;
+    }
+    .nu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .ni{
+    color: orange;
+    
+    }
+    .no{
+        display: flex;
+        align-items: center;
+        gap: 60px;
+    }
+    .ci{
+        width: 90%;
+        height: 400px;
+        background-image: url(./html7.png);
+        text-align: center;
+        color: white;
+        margin-left: 5%;
+      
+       
+    }
+    .cy{
+    background-color: orange;
+    color: white;
+    
+    }
+    button{
+        border-radius: 15px;
+       width: 100px;
+       height: 30px;
+     
+       border: none;
+       margin: 20px 10px;
+       
+    }
+    .cv{
+        font-size: 13px;
+    }
+    .ct{
+        margin: 50px auto;
+        display: inline-block;
+    }
+    .cb{
+        font-size: 40px;
+        margin-bottom: 20px ;
+    }
+    .vy{
+    margin-left: 30%;
+    border-bottom: 3px solid black;
+    }
+    .xe{
+        font-size: 35px;
+        text-align: center;
+        margin: 30px auto;
+    }
+    .by{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .bv{
+        margin: 30px auto;
+    }
+    .bn{
+    color: orange;
+    }
+    .by{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .mk{
+    margin-left: 15%;
+    }
+    .cd{
+        width: 90%;
+        height: 500px;
+        background-image: url(./html6.png);
+        text-align: center;
+        color: white;
+        margin-left: 5%;
+    }
+    .cx{
+        border-radius: 5px;
+        width: 100px;
+        height: 50px;
+        color: white;
+      
+        border: none;
+        margin: 20px 10px;
+        background-color: orange;
+    }
+    .cz{
+    
+    width: 100px;
+    height: 50px;
+    background: none;
+    color: white;
+    border: 1px solid white;
+    
+    margin: 20px 10px;
+    }
+    .cw{
+       
+        margin: 100px auto;
+        display: inline-block;
+        font-size: 40px;
+    }
+    .cq{
+        font-size: 13px;
+        margin: 50px auto;
+    }
+    .mm{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .ww{
+        display: flex;
+        gap: 20px;
+    }
+    .bq{
+        background: none;
+        color: white;
+        border: 1px solid white;
+    }

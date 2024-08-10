@@ -1,0 +1,16 @@
+.ni{
+    color: blue;
+    display: inline-block;
+    background: linear-gradient(to right,#21c2f3, #be11f3);
+    -webkit-text-fill-color: transparent;
+    
+ }
+ 
+ .nr{
+    background-color: black;
+background: linear-gradient(90deg,rgb(182,10,167), rgb(0,162,255));
+padding: 1px ;
+display: inline-block;
+
+box-shadow: 0px 0px 15px 2px rgb(14,132,230);
+}

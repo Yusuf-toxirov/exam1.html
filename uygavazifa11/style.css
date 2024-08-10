@@ -1,0 +1,64 @@
+.con{
+    display: grid; 
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+    grid-auto-flow: dense;
+    grid-auto-rows: 100px;
+    overflow: hidden; 
+    margin: 250px;
+    
+}
+.box{
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.both{
+    grid-row: span 2;
+    grid-column: span 2;
+}
+.boyi{
+    grid-row: span 2;
+}
+.eni{
+    grid-column: span 2;
+}
+.box:hover{
+    filter: blur(10px);
+    scale: (1.1sec);
+    transition: all 0.3s;
+}
+.box::after{
+    content: "games";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);scale: (0.2);
+    background: transparent;
+    border-radius: 2px;
+    border: 1px solid;
+    padding: 5px 8px;
+    z-index: 2;
+    transition: all 0.3s;
+    opacity: 0;
+    visibility: hidden;
+}
+.box:hover:after{
+    content: "games";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);scale: (0.2);
+    background: transparent;
+    border-radius: 2px;
+    border: 1px solid;
+    padding: 5px 8px;
+    z-index: 2;
+    transition: all 0.3s;
+}
